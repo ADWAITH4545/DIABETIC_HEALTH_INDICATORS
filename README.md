@@ -1,12 +1,12 @@
-# DIABETIC_HEALTH_INDICATORS
+## DIABETIC_HEALTH_INDICATORS
 
-Overview
+## Overview
 
 This project aims to analyze and predict diabetes outcomes using data from the Behavioral Risk Factor Surveillance System (BRFSS) 2015 survey. This dataset, collected by the Centers for Disease Control and Prevention (CDC), contains responses from 253,680 individuals across the United States, providing valuable insights into lifestyle choices, healthcare accessibility, and health-related risks. By employing machine learning techniques, the project seeks to identify significant predictors of diabetes and evaluate the performance of predictive models.
 
-Dataset Details
+## Dataset Details
 
-Source
+Source / Dataset link: https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
 The dataset originates from the BRFSS, a health-related telephone survey conducted annually by the CDC since 1984. The 2015 dataset used in this project includes:
 
@@ -20,7 +20,7 @@ Target Variable: Diabetes_binary
 
 1.0: Diabetic (positive class)
 
-Features
+## Features
 
 The dataset includes:
 
@@ -32,7 +32,7 @@ Healthcare accessibility metrics (e.g., health insurance status)
 
 Chronic health indicators (e.g., BMI, blood pressure levels)
 
-Objective
+## Objective
 
 The primary objective of this project is to:
 
@@ -44,7 +44,7 @@ Address challenges such as class imbalance to ensure robust and fair model perfo
 
 Provide actionable insights for healthcare practitioners and policymakers to design effective interventions.
 
-About Columns:
+## About Columns:
 
 Diabetes_binary : you have diabetes (0 = no diabetes | 1 = prediabetes or diabetes)
 
